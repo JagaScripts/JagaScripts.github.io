@@ -22,7 +22,7 @@ www.albertpagaconstructor.com
 - Curso de Prework: Configuración de Entorno de Desarrollo en Windows https://platzi.com/p/JagaScripts/curso/2042-prework-windows/diploma/detalle/
 - Curso Gratis de Programación Básica https://platzi.com/p/JagaScripts/curso/1050-programacion-basica/diploma/detalle/
 
-2019. Curso Superior en Java y Android SEAS Estudios Superiores Abiertos https://www.ucavila.es/verificacion-de-documentos/.
+2019. Curso Superior en Java y Android SEAS Estudios Superiores Abiertos https://www.ucavila.es/verificacion-de-documentos/ Id certificación EE4j#TRxScmoH.
 - Práctica Java SEE MySql  repositorio https://github.com/JagaScripts/fast-food-company
 - JavaDoc práctica https://jagascripts.github.io/fast-food-company/
 
