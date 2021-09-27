@@ -30,4 +30,5 @@ www.albertpagaconstructor.com
 
 2010. Prueba de acceso a la universidad para mayores de 25 años (equivale a Bachillerato). Universidad Rovira i Virgili.
 
+Aplicación para prácticar JavaScripts, HTML y CSS en esarrollo y mejora, próxima mejora migrarla a React https://jagascripts.github.io/WeeklyActivitiesTable/
 
